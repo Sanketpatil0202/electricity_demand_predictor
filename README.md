@@ -4,7 +4,7 @@ A simple end-to-end machine learning project: a **Random Forest Regressor**
 trained on weather and time-of-day data, served through an interactive
 **Streamlit** web app.
 
-🔗 Try it live: *[add your deployed Streamlit Cloud link here]*
+🔗 Try it live: *https://59zvxdjqgem6ipkzbfzrdx.streamlit.app/*
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
