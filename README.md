@@ -87,13 +87,6 @@ On the sample dataset (your numbers will vary with real data):
 | MAE | ~0.065 |
 | RMSE | ~0.076 |
 
-## ☁️ Deploying for free
-
-1. Push this repo to GitHub.
-2. Go to [share.streamlit.io](https://share.streamlit.io), sign in with GitHub.
-3. Click **New app**, select this repo and `app.py` as the entry point.
-4. Deploy — you'll get a shareable public URL to post on LinkedIn.
-
 ## 🛠️ Built with
 
 - [scikit-learn](https://scikit-learn.org/) – RandomForestRegressor
